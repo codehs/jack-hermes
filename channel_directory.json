@@ -1,0 +1,29 @@
+{
+  "updated_at": "2026-04-23T15:21:49.182957",
+  "platforms": {
+    "telegram": [
+      {
+        "id": "8505933016",
+        "name": "Jack Singer",
+        "type": "dm",
+        "thread_id": null
+      }
+    ],
+    "discord": [],
+    "whatsapp": [],
+    "slack": [],
+    "signal": [],
+    "mattermost": [],
+    "matrix": [],
+    "homeassistant": [],
+    "email": [],
+    "sms": [],
+    "dingtalk": [],
+    "feishu": [],
+    "wecom": [],
+    "wecom_callback": [],
+    "weixin": [],
+    "bluebubbles": [],
+    "qqbot": []
+  }
+}

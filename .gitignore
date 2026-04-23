@@ -1,0 +1,39 @@
+# ─── Secrets & Auth ───
+.env
+auth.json
+auth.lock
+
+# ─── State & Database ───
+state.db
+state.db-shm
+state.db-wal
+checkpoints/
+sandboxes/
+
+# ─── caches & cache locks ───
+*.lock
+gateway.lock
+gateway.pid
+
+# ─── Logs ───
+logs/
+
+# ─── Media & binary caches ───
+audio_cache/
+image_cache/
+node/
+
+# ─── Runtime / ephemeral ───
+pastes/
+pairing/
+gateway_state.json
+
+# ─── Large / developer caches ───
+models_dev_cache.json
+
+# ─── Build artifacts ───
+hermes-agent/
+
+# ─── OS noise ───
+.DS_Store
+Thumbs.db
